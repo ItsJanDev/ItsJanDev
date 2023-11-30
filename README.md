@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItsJanDev
-- 👀 I’m interested in C# WPF Development
+- 👀 I’m interested in C# and Web Development
 - 🌱 I’m currently learning Database Management on how to make queries faster
 - 💞️ I’m looking to collaborate on a Software Development Team
 
